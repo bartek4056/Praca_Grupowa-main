@@ -52,7 +52,7 @@ int main()
         cout<<myOsoby[i].get_id()<<" ";
         cout << myOsoby[i].get_imie()<<" ";
         cout << myOsoby[i].get_nazwisko()<<" ";
-        cout << myOsoby[i].get_pesel() << endl;
+        cout << myOsoby[i].get_pesel() << endl; //test
     }
     
 }
